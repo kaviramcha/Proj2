@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Anek Devanagari
+- Font Author: Copyright 2021 The Anek Project Authors (https://github.com/EkType/Anek)
+- Font Source: https://fonts.gstatic.com/s/anekdevanagari/v8/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLDtku9nFk0LjZ7E.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
